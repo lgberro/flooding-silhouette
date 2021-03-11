@@ -3,6 +3,9 @@
 ### Utilização
 `node index.js silhouettes.txt` (ou qualquer outro arquivo)
 
+### Exemplo
+https://codepen.io/lgberro/pen/mdOaQLj
+
 ### Desafio
 Imagine um array de inteiros onde cada posição contém a altura de uma silhueta:
 
